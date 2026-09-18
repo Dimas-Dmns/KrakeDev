@@ -1,0 +1,3 @@
+Nombre: Dimas
+Edad: 31 años
+Hobby: Programar
