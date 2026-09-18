@@ -1,3 +1,3 @@
 Nombre: Dimas
-Edad: 31 años
+Comida Favorita: Seefood
 Hobby: Programar
